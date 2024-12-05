@@ -2,12 +2,12 @@
 
 ## Author: Landen Lipskoch
 ## Summary
-This tutorial will give a basic introduction to HTML development for people that may be new to HTML.
+This tutorial offers a fundamental introduction to HTML development for those who are new to HTML.
 
 Topics:
-- HTML and what it's purpose
+- HTML and it's purpose
 - HTML elements
-- 5 main tags
+- Tags
 - Other common tags
 - HTML attributes
 
