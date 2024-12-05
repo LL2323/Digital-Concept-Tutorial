@@ -15,8 +15,7 @@ Topics:
 This tutorial is intended for individuals interested in exploring HTML web development concepts. It also serves as a valuable resource for beginners looking to get a head start in understanding HTML web application development.
 
 --- 
-# Table of Contents
-
+# Content in Order of Introduction (Select HTML to view first):
 1. [HTML](html_intro.md)
 2. [HTML Elements](html_elements.md)
 3. [HTML Attributes](html_attributes.md)
