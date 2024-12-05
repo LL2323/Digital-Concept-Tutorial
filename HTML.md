@@ -3,7 +3,7 @@
 - It defines the structure of a web page by using elements to specify how content is displayed. In turn, the web browser used these elements to render the contect or web page.
 
 Here is an example of a basic HTML document: 
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
