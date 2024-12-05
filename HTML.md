@@ -17,9 +17,6 @@ HTML Example:
 </body>
 </html>
 ```
-Browser View:
-
-![](/Screenshot_1.png)
 
 To learn more about HTML elements, click "Next"
 
