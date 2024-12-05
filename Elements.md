@@ -30,7 +30,8 @@ This element defines the title of the document, which will appear in the browser
 - `<body>`
 This element contains all the content that will be displayed on the webpage.
 - `<h1>`
-This is a heading tag. The importance of the heading can be adjusted by changing the number, with <h1> being the most important and <h6> being the least important (e.g., <h1>, <h2>, ... <h6>).
+The size and importance of the heading can be changed by changing the number in the tag. `<h1>` being the most important and `<h6>` being the least important.
+ex. `<h1>`, `<h2>`, ... `<h6>`.
 - `<p>`
 This is a paragraph tag used to display text.
 
