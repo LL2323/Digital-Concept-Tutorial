@@ -27,4 +27,4 @@ Not all elements have attributes, and many attributes are specific to particular
 
 To learn about other common elements and their attributes, click "Next".
 
-## [Previous](html_elements.md) | [Home](README.md) | [Next](tags.md)
+## [Previous](Elements.md) | [Home](README.md) | [Next](Tags.md)
