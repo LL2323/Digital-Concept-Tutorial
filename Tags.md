@@ -9,20 +9,21 @@ Now, let's explore some other frequently used tags that you will encounter as yo
 ```html
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>My Title</title>
-    </head>
-    <body>
-        <div style="color: red">
-            <p>This is in the first div</p>
-            <p>Hello</p>
-        </div>
-        <div style="color: blue">
-            <p>This is in the second div</p>
-            <p>World</p>
-        </div>
-    </body>
+<head>
+    <title>My Title</title>
+</head>
+<body>
+    <div style="color: red;">
+        <p>This is in the first div</p>
+        <p>Hello</p>
+    </div>
+    <div style="color: blue;">
+        <p>This is in the second div</p>
+        <p>World</p>
+    </div>
+</body>
 </html>
+
 ```
 ![](images/div.png)
 - `<a>`
