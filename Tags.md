@@ -23,7 +23,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
         </div>
     </body>
 </html>
-
 ```
 ![](images/div.png)
 - `<a>`
