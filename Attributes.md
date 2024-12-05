@@ -23,7 +23,7 @@ Href Attribute:
  - This attribute provides the URL of a linked resource, used with anchor (<a>) elements to create hyperlinks.
 
 # Importance of Attributes
- - Not all elements have attributes, and many attributes are specific to particular elements. By understanding and utilizing attributes effectively, you can create more interactive, accessible, and visually appealing web pages.
+Not all elements have attributes, and many attributes are specific to particular elements. By understanding and utilizing attributes effectively, you can create more interactive, accessible, and visually appealing web pages.
 
 To learn about other common elements and their attributes, click "Next".
 
