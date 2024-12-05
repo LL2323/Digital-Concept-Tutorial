@@ -20,25 +20,20 @@
 
 Let's break down the elements in our HTML document:
 - `<!DOCTYPE html>`
-  - This element informs the browser that the file is an HTML document. It does not have an end tag.
+This element informs the browser that the file is an HTML document. It does not have an end tag.
 - `<html>`
 This element is the root of the HTML page. All other elements are nested between its start and end tags.
 - `<head>`
-  - This element is a containter for metadata about the HTML page.
-  - Things like defining the charset, linking stylesheets, and defining the title go inside this element.
+This container holds metadata about the HTML page, including the charset definition, links to stylesheets, and the title.
 - `<title>`
-  - This element defines the document's title.
-  - The title will be shown in the browser's tab.
+This element defines the title of the document, which will appear in the browser's tab.
 - `<body>`
-  - This element contains all the content that will be displayed in a web page.
+This element contains all the content that will be displayed on the webpage.
 - `<h1>`
-  - This is a heading tag.
-  - The size and importance of the heading can be changed by changing the number in the tag. `<h1>` being the most important and `<h6>` being the least important.
-    - ex. `<h1>`, `<h2>`, ... `<h6>`.
+This is a heading tag. The importance of the heading can be adjusted by changing the number, with <h1> being the most important and <h6> being the least important (e.g., <h1>, <h2>, ... <h6>).
 - `<p>`
-  - This a paragraph tag.
-  - Paragraph tags are uses to display text.
+This is a paragraph tag used to display text.
 
-To look learn about HTML Attributes, click "Next"
+To learn more about HTML attributes, click "Next".
 
 ## [Previous](html_intro.md) | [Home](README.md) | [Next](html_attributes.md)
