@@ -6,15 +6,18 @@
 Here is an example of a basic HTML document: 
 ```html
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Intro to HTML</title>
-    </head>
-    <body>
-        <h1>What is HTML?</h1>
-        <p>This my introduction to learning HTML</p>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Webpage</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <p>This is a basic introduction to HTML. It's perfect for those new to web development.</p>
+</body>
 </html>
+
 
 ```
 And here's what it looks like in the browser:
