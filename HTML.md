@@ -14,7 +14,7 @@ Here is an example of a basic HTML document:
 </head>
 <body>
     <h1>Welcome!</h1>
-    <p>This is a basic introduction to HTML. It's perfect for those new to web development.</p>
+    <p>This is a basic introduction to HTML.</p>
 </body>
 </html>
 
