@@ -2,10 +2,11 @@
 In the previous section, you learned about HTML elements. Now let's dive deeper into HTML attributes, which provide additional details and functionality to elements, enhancing their usability and appearance.
 - Attributes provide additional information about an HTML element.
 What Are HTML Attributes?
-# Purpose 
+
+Purpose 
 - Attributes are used to provide additional information about HTML elements. They can define properties, set values, and add functionalities that influence how elements appear and behave on the web page.
 
-# Placement
+Placement
  - Attributes are always included within the start tag of an element. They typically come in name-value pairs, which allows for a wide range of configurations.
 
 Examples of Attributes
