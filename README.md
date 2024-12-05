@@ -1,7 +1,6 @@
 # Digital-Concept-Tutorial: HTML
 
-## Author
-Landen Lipskoch
+## Author: Landen Lipskoch
 ## Summary
 This tutorial will give a basic introduction to HTML development for people that may be new to HTML.
 
