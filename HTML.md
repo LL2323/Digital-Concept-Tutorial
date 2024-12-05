@@ -23,4 +23,4 @@ Browser View:
 
 To learn more about HTML elements, click "Next"
 
-## [Home](README.md) |  [Next](html_elements.md)
+## [Home](README.md) |  [Next](Elements.md)
