@@ -14,17 +14,15 @@
 </body>
 </html>
 ```
-- An HTML element is defined by a start tag, some content, and an end tag. Elements are the structure that make up an HTML document.
-- Above you will see a "title" element. That element has a start tag `<title>`, content "Intro to HTML", and end tag `</title>`. Everything from the start tag to the end tag is an HTML element.
-- Most elements follow this pattern, but some elements have no content and/or end tags, like the `<br>` tag.
+- An HTML element consists of a start tag, some content, and an end tag. Elements are the building blocks of an HTML document.
+- For example, the "title" element in the code above has a start tag <title>, the content "Intro to HTML", and an end tag </title>. Everything from the start tag to the end tag is considered an HTML element.
+- Most elements follow this pattern, but some do not contain content and/or do not have end tags, like the <br> tag.
 
 Let's break down the elements in our HTML document:
 - `<!DOCTYPE html>`
-  - This element is necessary to notify the browser that the file is an HTML document.
-  - It has no end tag.
+  - This element informs the browser that the file is an HTML document. It does not have an end tag.
 - `<html>`
-  - This element is the root of the HTML page.
-  - All other elements go between the start and end tags.
+This element is the root of the HTML page. All other elements are nested between its start and end tags.
 - `<head>`
   - This element is a containter for metadata about the HTML page.
   - Things like defining the charset, linking stylesheets, and defining the title go inside this element.
