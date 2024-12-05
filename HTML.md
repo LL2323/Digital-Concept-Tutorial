@@ -2,7 +2,7 @@
 - HTML, or Hypertext Markup Language, is the standard language for creating web pages.
 - It defines the structure of a web page by using elements to specify how content is displayed. In turn, the web browser used these elements to render the contect or web page.
 
-Here is an example of a basic HTML document: 
+HTML Example: 
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -19,10 +19,10 @@ Here is an example of a basic HTML document:
 
 
 ```
-And here's what it looks like in the browser:
+Browser View:
 
 ![](/Screenshot_1.png)
 
-To about HTML elements, click "Next"
+To learn more about HTML elements, click "Next"
 
 ## [Home](README.md) |  [Next](html_elements.md)
