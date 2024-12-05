@@ -16,7 +16,7 @@ This tutorial is intended for individuals interested in exploring HTML web devel
 
 --- 
 # Content in Order of Introduction (Select HTML to view first):
-1. [HTML](html_intro.md)
-2. [HTML Elements](html_elements.md)
-3. [HTML Attributes](html_attributes.md)
-4. [HTML Tags](tags.md)
+1. [HTML](HTML.md)
+2. [HTML Elements](Elements.md)
+3. [HTML Attributes](Attributes.md)
+4. [HTML Tags](Tags.md)
