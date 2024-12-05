@@ -24,7 +24,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </body>
 </html>
 ```
-![](images/div.png)
 - `<a>`
   - This tag is used to define links.
 ```html
@@ -39,7 +38,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </body>
 </html>
 ```
-![](images/a.png)
 - `<img>`
   - This is an image tag and is how to display an image.
   - This tag always has a "src" attribute which defines the path to the image.
@@ -56,7 +54,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </body>
 </html>
 ```
-![](images/img.png)
 - `<ol>` and `<ul>`
   - "ol" stands for Ordered List, and "ul" stands for Unordered List.
   - Ordered lists are numbered "1", "2", etc.
@@ -80,7 +77,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </body>
 </html>
 ```
-![](images/list.png)
 - `<span>`
   - This element is similar to a `<div>` tag, although rather than used as a block container, this tag is used an in inline container.
 
@@ -95,6 +91,5 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </body>
 </html>
 ```
-![](images/span.png)
 
 ## [Previous](html_attributes.md) | [Home](README.md)
