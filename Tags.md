@@ -17,10 +17,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
             <p>This is in the first div</p>
             <p>Hello</p>
         </div>
-        <div style="color: blue">
-            <p>This is in the second div</p>
-            <p>World</p>
-        </div>
     </body>
 </html>
 ```
@@ -34,7 +30,6 @@ Now, let's explore some other frequently used tags that you will encounter as yo
     </head>
     <body>
         <a href="www.google.com">Link to Google</a>
-        <a href="www.w3schools.com">Link to W3 Schools</a>
     </body>
 </html>
 ```
@@ -50,7 +45,7 @@ Now, let's explore some other frequently used tags that you will encounter as yo
         <title>My Title</title>
     </head>
     <body>
-        <img src="images/cute_cat.jpg" alt="cat" width="300" height="400">
+        <img src="images/screenshot1.jpg" alt="sc1" width="300" height="400">
     </body>
 </html>
 ```
