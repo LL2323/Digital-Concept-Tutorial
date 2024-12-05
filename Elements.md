@@ -37,4 +37,4 @@ This is a paragraph tag used to display text.
 
 To learn more about HTML attributes, click "Next".
 
-## [Previous](html_intro.md) | [Home](README.md) | [Next](html_attributes.md)
+## [Previous](HTML.md) | [Home](README.md) | [Next](Attributes.md)
