@@ -17,7 +17,7 @@ This tutorial is intended for individuals interested in exploring HTML web devel
 --- 
 # Table of Contents
 
-1. [What is HTML?](html_intro.md)
+1. [HTML](html_intro.md)
 2. [HTML Elements](html_elements.md)
 3. [HTML Attributes](html_attributes.md)
 4. [HTML Tags](tags.md)
