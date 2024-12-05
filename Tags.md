@@ -2,7 +2,7 @@
 
 Previously, we covered the common tags that appear in almost every HTML document. However, HTML includes dozens of different tags, many of which are rarely used.
 
-Now, let's explore some other frequently used tags that you will encounter as you delve deeper into HTML.
+Now, let's explore some other frequently used tags that you will encounter as you go deeper into HTML.
 
 - `<div>`
   - This tag is used as a block container for HTML elements.
