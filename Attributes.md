@@ -7,25 +7,21 @@ In the previous section, you learned about HTML elements. Now let's dive deeper 
 
 # Examples of Attributes
 Style Attribute:
-`Example: <p style="color: blue">Hello World</p>`
-
-This attribute specifies an inline CSS style, changing the text color to blue.
+`<p style="color: blue">Hello World</p>`
+ - This attribute specifies an inline CSS style, changing the text color to blue.
 
 Class Attribute:
-
-Example: <div class="container">Content</div>
-
-This attribute assigns the element to one or more classes, which can be used for styling with CSS or manipulation with JavaScript.
+`<div class="container">Content</div>`
+ - This attribute assigns the element to one or more classes, which can be used for styling with CSS or manipulation with JavaScript.
 
 ID Attribute:
-
-Example: <h1 id="main-title">Welcome</h1>
+`<h1 id="main-title">Welcome</h1>`
 
 This attribute assigns a unique identifier to an element, useful for styling and scripting.
 
 Href Attribute:
 
-Example: <a href="https://www.example.com">Visit Example</a>
+`<a href="https://www.example.com">Visit Example</a>`
 
 This attribute provides the URL of a linked resource, used with anchor (<a>) elements to create hyperlinks.
 
