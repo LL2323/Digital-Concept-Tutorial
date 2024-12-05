@@ -1,12 +1,11 @@
 # HTML Tags
 
-Previously we went over common tags that you will see on virtually every HTML document. However, there are dozens of different HTML tags. Most of them aren't used very often, if at all.
+Previously, we covered the common tags that appear in almost every HTML document. However, HTML includes dozens of different tags, many of which are rarely used.
 
-We will go over some other common tags that you will see and use while learning about HTML.
+Now, let's explore some other frequently used tags that you will encounter as you delve deeper into HTML.
 
 - `<div>`
   - This tag is used as a block container for HTML elements.
-  - We won't get into styling elements in this tutorial, but a `<div>` makes it easy for all the content inside of it to have the same style.
 ```html
 <!DOCTYPE html>
 <html>
@@ -28,7 +27,6 @@ We will go over some other common tags that you will see and use while learning 
 ![](images/div.png)
 - `<a>`
   - This tag is used to define links.
-  - This tag always accompanies an "href" attribute, which is used to describe the link's destination.
 ```html
 <!DOCTYPE html>
 <html>
@@ -85,7 +83,6 @@ We will go over some other common tags that you will see and use while learning 
 ![](images/list.png)
 - `<span>`
   - This element is similar to a `<div>` tag, although rather than used as a block container, this tag is used an in inline container.
-  - This tag can be used to change the style of a specific section of text inside a `<p>` tag.
 
 ```html
 <!DOCTYPE html>
