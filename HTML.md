@@ -16,8 +16,6 @@ HTML Example:
     <p>This is a basic introduction to HTML.</p>
 </body>
 </html>
-
-
 ```
 Browser View:
 
