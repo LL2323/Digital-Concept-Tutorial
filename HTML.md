@@ -22,7 +22,7 @@ Here is an example of a basic HTML document:
 ```
 And here's what it looks like in the browser:
 
-![](images/example_page.png)
+![](/Screenshot_1.png)
 
 To about HTML elements, click "Next"
 
