@@ -87,4 +87,4 @@ Now, let's explore some other frequently used tags that you will encounter as yo
 </html>
 ```
 
-## [Previous](html_attributes.md) | [Home](README.md)
+## [Previous](Attributes.md) | [Home](README.md)
