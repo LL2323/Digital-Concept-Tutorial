@@ -2,14 +2,16 @@
 
 ```html
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Intro to HTML</title>
-    </head>
-    <body>
-        <h1>What is HTML?</h1>
-        <p>This my introduction to learning HTML</p>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Webpage</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <p>This is a basic introduction to HTML.</p>
+</body>
 </html>
 ```
 - An HTML element is defined by a start tag, some content, and an end tag. Elements are the structure that make up an HTML document.
