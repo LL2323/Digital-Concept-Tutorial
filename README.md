@@ -5,11 +5,10 @@
 This tutorial offers a brief fundamental introduction to HTML development for those who are new to HTML.
 
 Topics:
-- HTML and it's purpose
-- HTML elements
-- Tags
-- Other common tags
-- HTML attributes
+- HTML Purpose
+- HTML Elements
+- HTML Attributes
+- HTML Tags
 
 ## Target Audience
 This tutorial is intended for individuals interested in exploring HTML web development concepts. It also serves as a valuable resource for beginners looking to get a head start in understanding HTML web application development.
