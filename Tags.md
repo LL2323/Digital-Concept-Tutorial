@@ -82,7 +82,7 @@ Now, let's explore some other frequently used tags that you will encounter as yo
         <title>My Title</title>
     </head>
     <body>
-        <p>Hello my <span style="font-weight: bold">name</span> is Josh</p>
+        <p>Hello my <span style="font-weight: bold">name</span> is Landen</p>
     </body>
 </html>
 ```
